@@ -16,7 +16,7 @@
 
 We have created a example app for the Xamarin SDK integration. 
 
-Please check the [Example](https://github.com/trackier/react-native-sdk/tree/main/example) directory for know to how the `Trackier SDK` can be integrated.
+Please check the [Example]() directory for know to how the `Trackier SDK` can be integrated.
 
 
 ## <a id="qs-basic-integration"></a>Integrate Xamarin SDK to your app
