@@ -126,7 +126,8 @@ Check below the screenshot of above code
 
 Screenshot[1]
 
-<img width="1000" alt="Screenshot 2022-08-22 at 4 51 37 PM" src="https://user-images.githubusercontent.com/16884982/185909581-74560171-32ee-4e7a-83f2-ee27bfeb0227.png">
+<img width="1000" alt="Screenshot 2022-08-22 at 4 51 37 PM" src="https://user-images.githubusercontent.com/16884982/185926189-23175787-b5f2-4eef-a3ad-8c40fb11bb95.png">
+
 
 
 ### <a id="qs-track-events"></a>Events Tracking
